@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm AmazingDude</h1>
+<h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">I'm currently learning Frontend Development.</h3>
 
-- 🌱 I’m currently learning **C, JavaScript, React,** and some other concepts I don't have a good grip upon.
+- 🌱 I’m currently learning **C, JavaScript, React,** and some other concepts I don't have a good grip on.
 
 - 📫 How to reach me **gamerskull007@gmail.com**
 
