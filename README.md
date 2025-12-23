@@ -1,17 +1,16 @@
-
-
 ```bash
-rehan@gitOS> whoami
+> whoami
 
 ```
 
-```csharp
-user: rehan
------------------------------------
-terminal  → bash
-role      → software engineering student
-location  → Islamabad, Pakistan
-
+```dart
+rehan@github
+────────────────────────────────
+OS        : gitOS v1.0
+Terminal  : bash
+Kernel    : NUST
+Role      : software engineering student
+Location  : Islamabad, Pakistan
 
 status:
   - learning by building
@@ -19,15 +18,6 @@ status:
   - building backend systems
 
 ```
-
-----------
-
-### 🌐 Connect with me
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amazingdude)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehanhaiderr)
-
-----------
 
 ```bash
 $ cat ~/skills.conf
@@ -83,3 +73,10 @@ $ cat ~/skills.conf
 > _"Strive for progress, not perfection."_
 
 [![](https://visitcount.itsvg.in/api?id=amazingdude&icon=0&color=0)](https://visitcount.itsvg.in/)
+
+----------
+
+### 🌐 Connect with me
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amazingdude)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehanhaiderr)
