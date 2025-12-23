@@ -7,17 +7,18 @@ rehan@gitOS> whoami
 
 ```
 
-```bash
+```c++
 rehan
-────────────────────────────────
-terminal: bash
-role: software engineering student
-location: Islamabad, Pakistan
+-----------------------------------
+terminal  → bash
+role      → software engineering student
+location  → Islamabad, Pakistan
+
 
 status:
-  - learning by building
-  - exploring AI/ML
-  - building backend systems
+  ▸ learning by building
+  ▸ exploring AI/ML
+  ▸ building backend systems
 
 ```
 
