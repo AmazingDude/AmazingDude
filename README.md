@@ -1,7 +1,5 @@
 
 
-----------
-
 ```bash
 rehan@gitOS> whoami
 
