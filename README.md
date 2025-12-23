@@ -7,7 +7,7 @@ rehan@gitOS> whoami
 
 ```
 
-```c++
+```csharp
 rehan
 -----------------------------------
 terminal  → bash
@@ -16,9 +16,9 @@ location  → Islamabad, Pakistan
 
 
 status:
-  ▸ learning by building
-  ▸ exploring AI/ML
-  ▸ building backend systems
+  - learning by building
+  - exploring AI/ML
+  - building backend systems
 
 ```
 
