@@ -7,7 +7,7 @@ rehan@gitOS> whoami
 
 ```
 
-```yaml
+```bash
 rehan
 ────────────────────────────────
 terminal: bash
