@@ -8,7 +8,7 @@ rehan@gitOS> whoami
 ```
 
 ```csharp
-rehan
+user: rehan
 -----------------------------------
 terminal  → bash
 role      → software engineering student
