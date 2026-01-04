@@ -62,6 +62,8 @@ $ cat ~/skills.conf
 ----------
 
 ### 📊 GitHub Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=amazingdude&theme=dark&hide_border=false&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=amazingdude&theme=dark&hide_border=false)  
