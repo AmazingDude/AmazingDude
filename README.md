@@ -66,32 +66,32 @@ $ cat ~/skills.conf
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-🌆 Daytime                311 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-🌙 Night                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌞 Morning                216 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌆 Daytime                314 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌙 Night                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Thursday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Friday                   176 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Saturday                 284 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
-Sunday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Monday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Wednesday                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Thursday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Friday                   176 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Saturday                 284 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
+Sunday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            █████████████░░░░░░░░░░░░   51.52 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
