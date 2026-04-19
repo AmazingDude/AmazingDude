@@ -63,14 +63,35 @@ $ cat ~/skills.conf
 
 ### 📊 GitHub Stats
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                218 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌆 Daytime                319 commits         ██████████░░░░░░░░░░░░░░░   38.07 % 
+🌃 Evening                187 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌙 Night                  114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Wednesday                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Thursday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Friday                   176 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Saturday                 292 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+```
+
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               17 repos            ████████████░░░░░░░░░░░░░   47.22 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
