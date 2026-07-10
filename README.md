@@ -66,21 +66,21 @@ $ cat ~/skills.conf
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                222 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌆 Daytime                374 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
-🌃 Evening                239 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-🌙 Night                  163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+🌞 Morning                222 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+🌆 Daytime                374 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌃 Evening                243 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+🌙 Night                  167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Thursday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Friday                   196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Saturday                 301 commits         ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Sunday                   182 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Thursday                 59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Friday                   200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Saturday                 301 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Sunday                   182 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 ```
 
 
