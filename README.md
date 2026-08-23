@@ -10,7 +10,6 @@
 
 ```bash
 > whoami
-
 ```
 
 ```dart
