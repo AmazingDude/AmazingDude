@@ -22,8 +22,7 @@ Role      : software engineering student
 Location  : Islamabad, Pakistan
 
 status:
-  - building agentic AI systems (multi-agent orchestration, MCP, RAG)
-  - completed AI Internship @ Arbisoft - agentic AI, MCP, agent primitives
+  - building agentic AI - multi-agent systems, MCP, RAG
   - 1st place x2 - Hackathons
 ```
 
@@ -39,7 +38,7 @@ status:
 |:--------|:------|:-------------|
 | **[secondpass](https://github.com/amazingdude/secondpass)** | Python, FastAPI, ChromaDB, MCP, Semgrep | **Multi-agent AI security & architecture code-review system.** Supervisor + worker architecture combining Semgrep static analysis with LLM reasoning. **1.0 precision/recall** on a real-world CVE suite, backed by **200+ automated tests**. |
 | **[Multi-Agent Research Assistant](https://github.com/amazingdude/synapse-ai)** | LangGraph, Python, Tavily, FastAPI | **4-agent LangGraph pipeline** (clarity, research, validation, synthesis) with HITL interrupt/resume and persistent multi-turn conversation state. |
-| **[Pitchside Pulse](https://github.com/MuhammadAashirAslam/PitchSidePulse)** | Next.js, Supabase, AWS Lambda, Solana | Live fan-engagement platform with real-time momentum tracking and an AWS Lambda-powered AI commentary pipeline. Solana-based payments. [Live demo →](https://pitchsidepulse.vercel.app/) |
+| **[Pitchside Pulse](https://github.com/MuhammadAashirAslam/PitchSidePulse)** | Next.js, Supabase, AWS Lambda, Solana | Live fan-engagement platform with real-time momentum tracking and an AWS Lambda-powered AI commentary pipeline. Solana-based payments. [Live](https://pitchsidepulse.vercel.app/) |
 | **[AI Event Manager](https://github.com/AWaleed-Ahmed/devcon)** | Next.js, Supabase, Gemini AI, MediaPipe | RAG chatbot + cosine-similarity attendee matching + MediaPipe gesture controls. Shipped in a **6–7 hour hackathon sprint**, **1st place**. |
 
 ---
