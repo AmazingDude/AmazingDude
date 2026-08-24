@@ -106,35 +106,35 @@ $ cat ~/skills.conf
 
 ### 📊 GitHub Stats
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-🌆 Daytime                479 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌃 Evening                484 commits         ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌙 Night                  277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                457 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌃 Evening                421 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
+🌙 Night                  245 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Wednesday                130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Thursday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Friday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Saturday                 327 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Sunday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Wednesday                121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Thursday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Friday                   249 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Saturday                 330 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Sunday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 ```
 
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.73 % 
-TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+JavaScript               18 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
