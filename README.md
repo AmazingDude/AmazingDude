@@ -106,24 +106,24 @@ $ cat ~/skills.conf
 
 ### 📊 GitHub Stats
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-🌆 Daytime                535 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌃 Evening                476 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌙 Night                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                545 commits         █████████░░░░░░░░░░░░░░░░   35.32 % 
+🌃 Evening                506 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌙 Night                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Wednesday                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Friday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Saturday                 342 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Sunday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Wednesday                139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Thursday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Friday                   308 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Saturday                 345 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Sunday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 ```
 
 
@@ -131,10 +131,10 @@ Sunday                   254 commits         ████░░░░░░░�
 
 ```text
 JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   36.54 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
 Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
