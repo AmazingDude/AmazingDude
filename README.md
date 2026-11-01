@@ -106,27 +106,6 @@ $ cat ~/skills.conf
 
 ### 📊 GitHub Stats
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                492 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-🌆 Daytime                1613 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-🌃 Evening                2610 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
-🌙 Night                  1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   909 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Tuesday                  728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Wednesday                439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Thursday                 692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Friday                   627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 1155 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Sunday                   1258 commits        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-```
-
-
 **I Mostly Code in JavaScript** 
 
 ```text
